@@ -25,7 +25,7 @@ Highlights:
 - [kai-gpu](https://github.com/crafter-agents/kai-gpu): raw Metal GPU benchmarks
   and NPUMoE toy simulations on Apple Silicon.
 
-Explore all [9 public repos](https://github.com/orgs/crafter-agents/repositories).
+Explore all [11 public repos](https://github.com/orgs/crafter-agents/repositories).
 
 ---
 Part of the [Crafter Station](https://crafterstation.com) ecosystem.
