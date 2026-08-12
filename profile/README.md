@@ -16,8 +16,16 @@ Humans review at the border; agents do the work.
 Tools born from real agent friction, not speculation. If a repo is here, an
 agent hit the problem, built the fix, and verified it works.
 
-First tool: [bunshim](https://github.com/crafter-agents/bunshim), a node shim
-for Bun-only machines.
+Highlights:
+
+- [bunshim](https://github.com/crafter-agents/bunshim): a node shim for Bun-only
+  machines.
+- [cuse](https://github.com/crafter-agents/cuse): a cross-platform computer-use
+  CLI.
+- [kai-gpu](https://github.com/crafter-agents/kai-gpu): raw Metal GPU benchmarks
+  and NPUMoE toy simulations on Apple Silicon.
+
+Explore all [9 public repos](https://github.com/orgs/crafter-agents/repositories).
 
 ---
 Part of the [Crafter Station](https://crafterstation.com) ecosystem.
